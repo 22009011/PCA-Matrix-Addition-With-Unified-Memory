@@ -16,9 +16,10 @@ Declare the main function. In the main function set up the device & data size of
 Execute the program and run the terminal . Check the performance using nvprof.
 
 ## program:
+```
 Developed By: THANJIYAPPAN.K
 REG NO:212222240108
-
+```
 ```
 #include "common.h"
 #include <cuda_runtime.h>
